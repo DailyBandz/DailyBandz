@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mmobwete
+- 👋 Hi, I’m @DailyBandz
 - 👀 I’m interested in all things code
 - 🌱 I’m currently studying a Computer science degree
 - 📫 How to reach me mobwetem1@gmail.com
